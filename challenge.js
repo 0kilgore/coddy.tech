@@ -15,3 +15,10 @@ function math(num1,num2){
     console.log(Math.pow(num1,2))
     console.log(Math.min(num1,mum2));
 }
+
+
+//ou are given two strings str1 and str2. Concatenate them and print the concatenated string.
+
+function concat(str1 , str2){
+     console.log(str1 + str2);
+}
